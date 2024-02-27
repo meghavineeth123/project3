@@ -1,0 +1,366 @@
+
+
+.sec1{
+   background-image: url("bg3.jpg");
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+   }
+   .nav-link{
+      margin-left: 40px;
+   }
+.b1{
+   /* background-color: aqua; */
+   margin-bottom: 80px; 
+  
+}
+.opacity1{
+   background-color: rgba(0, 0, 0, 0.322);
+   height: 100%;
+   width: 100%;
+}
+.brisket{
+   color: white;
+   font-size: 50px;
+   text-align: center;
+   font-weight: 500;
+   padding-top:100px;
+}
+.years{
+   color: white;
+   font-size: 20px;
+   margin-top: 30px;
+   text-align: center;
+}
+.see{
+   font-size: 13px;
+   background-color: rgb(231, 178, 108);
+   color: white;
+   margin-left: 45%;
+   margin-top: 30px;
+   padding: 8px;
+   border: none;
+
+}
+.sec2{
+    
+    
+    background-image: url("dark\ bg.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.redefining{
+   font-size: 25px;
+   text-align: center;
+   color: white;
+   font-weight: bold;
+   padding:15%;
+   margin-top: 50px;
+}
+.sec3{
+    background-color: aqua;
+    background-image: url("img\ 2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+.b3{
+  padding: 10% 0%;
+  text-align: center;
+    
+}
+.local{
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: 50px;
+   text-align: center;
+   color: white;  
+}
+.family{
+   font-size: 15px;
+   text-align: center;
+   font-weight: 500;
+   color: white;
+   
+}
+.find{
+   color: white;
+   background-color: rgb(156, 142, 19);
+   font-size: 12px;
+   font-weight: bold;
+   padding: 5px 20px;
+   border-color: rgb(156, 142, 19) ;
+   border: none;
+}
+.icon1{
+   font-size: 20px;
+   color: white;
+}
+.line3{
+   background-color: white;
+   height: 1px;
+   width: 30%;
+   margin:auto;
+}
+
+.sec4{
+   background-color: rgb(119, 96, 96);
+   background-image: url("Chicken-in-Chinese.jpg");
+   height:400px;
+   background-repeat: no-repeat;
+   background-size: cover;
+    
+}
+.b4{
+   padding: 10%;
+   min-height: 400px;
+   text-align: center;
+}
+.catering{
+   text-align: center;
+   color: white;
+   font-weight: bold;
+   font-size: 40px;
+   /* margin-top: 50px; */
+   
+}
+.bring{
+   text-align: center;
+   color: white;
+   font-size: 15px;
+   font-weight: bold;
+}
+.view{
+   color: white;
+   background-color: rgb(207, 129, 26);
+   font-size: 12px;
+   font-weight: bold;
+   border: none;  
+}
+.opacity0{
+   background-color: rgba(225, 228, 231, 0.361);
+}
+
+.sec5{ 
+   /* background-color: rgb(137, 183, 183); */
+   background-image: url("cooking2.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.b5{
+   min-height: 250px;
+   padding: 10%;
+}
+.at{
+   font-size: 25px;
+   text-align: center;
+   font-family: 'Times New Roman', Times, serif;
+   /* padding: 50px; */
+   font-weight: 800;
+   color: rgb(11, 12, 12);
+   
+}
+.opacity3{
+   background-color: rgba(250, 250, 250, 0.726);
+   height: 250px;
+}
+
+.sec6{
+   background-image:url("img\ 7.jpg") ;
+   /* height: 400px; */
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-color: rgb(60, 42, 42);
+
+}
+.b6{
+   padding: 10%;
+   min-height: 400px;
+   color: white;
+   text-align: center;
+}
+.opacity2{
+   background-color: rgba(0, 0, 0, 0.411);
+   height: 400px;
+   width: 100%;
+}
+.line2{
+   background-color: rgb(199, 201, 202);
+   /* height: 1px;
+   width: 300px;
+   margin-left: 330px; */
+   height: 2px;
+   width: 40%;
+   margin:auto;
+}
+.river{
+   font-size: 30px;
+   text-align: center;
+   /* padding: 50px; */
+   color: rgb(248, 248, 248);
+   font-weight: 800; 
+}
+.souces{
+   font-size: 10px;
+}
+.shop{
+   font-size: 15px;
+   background-color: rgb(207, 129, 26);
+   color: white;
+   
+   
+}
+
+.sec7{
+   background-image: url("girls.webp");
+   background-size: cover ;  
+}
+.b7{
+   padding: 15%;
+   min-height: 400px;
+   text-align: center;
+}
+.loyal{
+   text-align: center;
+   color: rgb(0, 0, 0);
+   font-size: 30px;
+   font-weight: 900;
+   font-family: 'Times New Roman', Times, serif;
+}
+.light{
+   color: rgb(0, 0, 0);
+   font-size: 15px;
+   margin-top: 2%;
+   text-align: center;
+   font-weight: 700;
+   font-family: 'Times New Roman', Times, serif;
+}
+.out{
+   font-size: 15px;
+   background-color: rgb(209, 168, 80);
+   border: none;
+   color: white;
+   margin-top: 8%;
+   border-radius: 3px;
+}
+.opacity4{
+   background-color: rgba(240, 248, 255, 0.493);
+}
+
+.sec8{
+   background-image: url("family2.jpg");
+   background-size: cover ;   
+}
+.b8{
+   padding: 10%;
+   min-height: 300px;
+}
+
+.if{
+   font-size: 20px;
+   text-align: center;
+   font-weight: bold;
+
+}
+.john{
+   text-align: center;
+   font-size: 15px;
+   font-weight: bold;
+}
+.opacity5{
+   background-color: rgba(253, 168, 9, 0.603);
+   height: 300px;
+
+}
+
+.sec9{
+   background-image: url("man.jpg");
+   background-size: cover;
+}
+.b9{
+   padding: 15% 0%;
+   min-height: 400px;
+   text-align: center;
+}
+
+.the{
+   font-size: 35px;
+   font-weight: bold;
+   color: rgb(255, 253, 253);
+}
+.line1{
+   background-color: white;
+   height: 2px;
+   width: 30%;
+   margin-left: 35%;
+}
+.span{
+   font-size: 15px;
+}
+.ri{  
+   background-color: rgb(233, 178, 76);
+   color: white;
+   border: none;
+   font-size: 10px;
+   font-weight: bold;
+   border-radius: 3px;
+}
+.opacity6{
+   background-color: rgba(0, 0, 0, 0.377);
+   height: 400px;
+}
+
+.sec10{
+   background-color: black;
+   padding: 3% 0%;
+}
+.join{
+   font-size: 20px;
+   color: white;
+
+}
+.links{
+   text-decoration: none;
+   color: white;
+}
+
+/* .log-link{
+   margin-right: 100px;
+   color:black;
+   text-decoration: none;
+} */
+/* .rivers-link{
+   margin-left: 60px;
+
+} */
+
+
+.sec11{
+   background-color: black;
+}
+/* .smoke{
+   font-size: 20px;
+   font-weight: bold;
+   color: white;
+   padding:10px;  
+} */
+.logo{
+   color: rgb(227, 187, 111);
+    /* padding: 10px; */
+   margin-right: 25px;
+  
+}
+.last{
+   margin-top: 25px;  
+   text-align: right;
+}
+.btn1{
+   background-color: rgb(233, 178, 76);
+   color: white;
+   border: none;
+   font-size: 10px;
+   font-weight: bold;
+   padding: 8px;
+   border-radius: 3px;
+
+}
+
